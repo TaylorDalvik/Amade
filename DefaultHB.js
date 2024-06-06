@@ -1,3 +1,3 @@
-print("work");
+function onLevel(){
 print("or");
-print("no");
+}
