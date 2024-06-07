@@ -1,1 +1,1 @@
-function onLevel(){print("or")}
+function onLevelTick(){print("or")}
