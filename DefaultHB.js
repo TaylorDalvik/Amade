@@ -1,3 +1,1 @@
-function onLevel(){
-print("or");
-}
+function onLevel(){print("or")}
